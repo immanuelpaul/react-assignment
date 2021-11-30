@@ -1,10 +1,6 @@
 # ReactJS Assessment
 
----
-
 ## Functional Requirements
-
----
 
 Enable provision to Add New Users
 
@@ -17,8 +13,6 @@ Display the list of Users
 ---
 
 ## Technical Requriements
-
----
 
 Use Redux to store user list
 
@@ -35,8 +29,6 @@ Do not use external CSS library
 ---
 
 ## UI/UX Requirements
-
----
 
 Add decent styles for the application
 
